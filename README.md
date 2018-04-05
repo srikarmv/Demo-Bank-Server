@@ -5,10 +5,14 @@ Commands to execute:-
 rmiregistry &
 javac *.java
 java Server
+
 -----------------------------------------
+
 Data Already Stored:-
 -----------------------------------------
+
 5 Bank accounts ( 9491334650,9491334641,9491334652,9491334653,9491334654)
+
 ------------------------------------------
 Methods to invoke:-
 -----------------------------------------
@@ -53,4 +57,5 @@ java Client Number
 4) Case Convertor
 
 java Client String
+
 ---------------------------
