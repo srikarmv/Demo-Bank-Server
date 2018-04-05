@@ -1,5 +1,7 @@
 # Demo-Bank-Server
 
+This project is an implementation of a Bank Server in Java RMI.
+
 Commands to execute:-
 ------------------------
 rmiregistry &
